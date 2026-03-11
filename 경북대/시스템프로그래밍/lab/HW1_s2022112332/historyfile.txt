@@ -1,0 +1,109 @@
+sudo apt-get update && sudo apt-get install -y vim make gcc
+ls ~
+cd ~
+ls -l
+ls -a
+cd ..
+ls
+history
+history --help
+echo $HISTFILE
+ls -a
+cd cosmos
+ls -l
+ls -a
+vim $HISTFILE
+ls -a
+vim $HISTFILE
+exit
+ls ~
+cd ~
+ls -a
+cat .bash_history
+vim .bash_history 
+history --help
+exit
+gcc -o hello hello.c
+clear
+gcc -o hello hello.c
+./hello
+cat ~/.bash_history
+gcc -o hello -g hello.c
+gdb hello.c
+sudo apt install gdb -y
+gdb hello
+cd ~
+ls
+pwd
+gcc -o hello -g hello.c
+cp /mnt/c/Users/flowe/lab6/hello.c .
+ls
+gcc -o hello -g hello.c
+./hello
+gcc -o hello -g hello.c
+./hello
+gcc -o hello -g hello.c
+./hello
+pwd
+gcc -o hello -g hello.c
+./hello
+history --help
+ls
+history
+history --help
+clear
+gcc -o hello hello.c
+./hello
+date
+history
+cat ~/.bash_history
+vim test.txt
+history -r test.txt 
+A
+B
+C
+D
+history
+cat .bash_history 
+quit
+exit
+cat .bash_history 
+gcc -o hello hello.c
+ls
+cat test.txt
+./hello a test.txt
+gdb -o hello -g hello.c
+gcc -o hello -g hello.c
+gdb hello
+history
+gcc -o hello -g hello.c
+./hello a test.txt
+cat .bash_history 
+history
+history -w
+cat .bash_history 
+gcc -o hello hello.c
+ls
+cat test.txt
+./hello a test.txt
+gdb -o hello -g hello.c
+gcc -o hello -g hello.c
+gdb hello
+history
+gcc -o hello -g hello.c
+./hello a test.txt
+cat .bash_history 
+history
+history -w
+history
+vim ~/.bash_history 
+gcc -o hello hello.c
+./hello
+gcc -o hello hello.c
+clear
+gcc -o hello hello.c
+./hello
+gcc -o hello hello.c
+X
+Y
+Z

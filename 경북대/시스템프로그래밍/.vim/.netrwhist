@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/usr/lib/gcc'
+let g:netrw_dirhist_5='/usr/lib/terminfo'
+let g:netrw_dirhist_4='/usr/lib/sysusers.d'
+let g:netrw_dirhist_3='/usr/lib/udev'
+let g:netrw_dirhist_2='/usr/lib/tmpfiles.d'
+let g:netrw_dirhist_1='/home/jinoo/lab/lab4_s2022112332'

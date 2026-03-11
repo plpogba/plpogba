@@ -1,0 +1,13 @@
+Breakpoint 1 at 0x1266: file ls1.c, line 21.
+Starting program: /home/jinoo/lab/lab4_2022112332/ls1 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, do_ls (dirname=0x555555556004 ".") at ls1.c:21
+21		if((dir_ptr = opendir(dirname)) == NULL)
+24			while((direntp = readdir(dir_ptr)) != NULL)
+$1 = (struct dirent *) 0x0
+__GI___readdir64 (dirp=0x5555555592a0) at ../sysdeps/unix/sysv/linux/readdir64.c:32
+32	../sysdeps/unix/sysv/linux/readdir64.c: No such file or directory.
+Continuing.
+[Inferior 1 (process 1999) exited normally]
