@@ -20,7 +20,7 @@ I enjoy turning what I learn into practical web services, data-driven applicatio
 
 | Project | Description | Tech Stack | Link |
 | --- | --- | --- | --- |
-| **AI-Powered Stock Analyzer** | Data-driven stock analysis system combining technical indicators, machine-learning ensembles, and news impact analysis | Python, machine learning, data analysis | [Repository](https://github.com/plpogba/stockprice) |
+| **OSP Team Project** | Open Source Programming team project where I contributed to the machine-learning component | Python, machine learning, Flask | [Repository](https://github.com/plpogba/web-serv) |
 | **LLM-Based Diary** | iOS diary application built around an LLM-powered journaling experience | Swift, SwiftUI, Xcode | [Repository](https://github.com/plpogba/LLM-Diary) |
 
 ## Currently Learning
