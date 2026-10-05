@@ -31,7 +31,10 @@
 An AI-powered stock analysis web service combining ensemble forecasting,
 S&P 500 screening, and real-time sentiment analysis.
 
-`PYTHON` `XGBOOST` `LSTM` `DOCKER`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/XGBoost-1F77B4?style=flat-square&logoColor=white" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LSTM-6C5CE7?style=flat-square&logoColor=white" alt="LSTM" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 [View StockPriceAI on GitHub](https://github.com/OSP-team4-StockPriceAI/StockPriceAI)
 
@@ -42,9 +45,11 @@ S&P 500 screening, and real-time sentiment analysis.
 An iOS journaling experience built around an LLM - a small space for turning
 everyday thoughts into something worth keeping.
 
-`SWIFT` `SWIFTUI` `XCODE`
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
 
-[Read the repository](https://github.com/plpogba/LLM-Diary)
+[View LLM-Diary on GitHub](https://github.com/plpogba/LLM-Diary)
 
 ## The next experiment
 
