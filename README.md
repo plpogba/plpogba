@@ -1,32 +1,63 @@
-# Hi, I'm Jinoo Kang
+<div align="center">
 
-Computer Science student at **Kyungpook National University**, currently pursuing a dual degree at **TU Dublin**.  
-I enjoy turning what I learn into practical web services, data-driven applications, and well-documented software projects.
+# Jinoo Kang
 
-## Tech Stack
+`CS STUDENT / SERVICE BUILDER / PERPETUAL LEARNER`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
+**Kyungpook National University** + **TU Dublin**
 
-## Featured Projects
+</div>
 
-| Project | Description | Tech Stack | Link |
-| --- | --- | --- | --- |
-| **OSP Team Project** | Open Source Programming team project where I contributed to the machine-learning component | Python, machine learning, Flask | [Repository](https://github.com/plpogba/web-serv) |
-| **LLM-Based Diary** | iOS diary application built around an LLM-powered journaling experience | Swift, SwiftUI, Xcode | [Repository](https://github.com/plpogba/LLM-Diary) |
+---
 
-## Currently Learning
+> **Working thesis**
+>
+> Good software should feel like a clear path through a messy idea.
+> I am learning how to build that path - from the first experiment to the
+> service someone can actually use.
 
-- Strengthening my programming fundamentals
-- Practicing problem solving with Python, Java, and C++
-- Building full-stack applications and REST APIs
-- Learning how to containerize and deploy services with Docker
+## Field notes
 
-## Contact
+|  | |
+| :--- | :--- |
+| **01 / BUILD** | Web services, REST APIs, and data-driven applications |
+| **02 / STUDY** | Programming fundamentals with Python, Java, and C++ |
+| **03 / SHIP** | Containers, deployment, and the details that make software dependable |
 
-[Email me](mailto:kangjinoo@knu.ac.kr)
+## Things made so far
+
+### OSP Team Project
+
+An open-source programming project where I contributed to the machine-learning
+component and helped turn it into a practical web service.
+
+`PYTHON` `MACHINE LEARNING` `FLASK`
+
+[Read the repository](https://github.com/plpogba/web-serv)
+
+---
+
+### LLM-Based Diary
+
+An iOS journaling experience built around an LLM - a small space for turning
+everyday thoughts into something worth keeping.
+
+`SWIFT` `SWIFTUI` `XCODE`
+
+[Read the repository](https://github.com/plpogba/LLM-Diary)
+
+## The next experiment
+
+I am strengthening the fundamentals, practicing problem solving, and building
+full-stack systems that stay understandable as they grow. Docker is the current
+bridge between “it works here” and “it can go somewhere.”
+
+<div align="center">
+
+`PYTHON` / `JAVA` / `C++` / `DOCKER` / `FLASK`
+
+<br><br>
+
+[EMAIL](mailto:kangjinoo@knu.ac.kr) &nbsp; [GITHUB](https://github.com/plpogba)
+
+</div>
