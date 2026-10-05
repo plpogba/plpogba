@@ -20,20 +20,20 @@
 
 |  | |
 | :--- | :--- |
-| **01 / BUILD** | Web services, REST APIs, and data-driven applications |
-| **02 / STUDY** | Programming fundamentals with Python, Java, and C++ |
-| **03 / SHIP** | Containers, deployment, and the details that make software dependable |
+| **BUILD** | Web services, REST APIs, and data-driven applications |
+| **STUDY** | Programming fundamentals with Python, Java, and C++ |
+| **SHIP** | Containers, deployment, and the details that make software dependable |
 
 ## Things made so far
 
-### OSP Team Project
+### StockPriceAI · Open Source Programming Team Project
 
-An open-source programming project where I contributed to the machine-learning
-component and helped turn it into a practical web service.
+An AI-powered stock analysis web service combining ensemble forecasting,
+S&P 500 screening, and real-time sentiment analysis.
 
-`PYTHON` `MACHINE LEARNING` `FLASK`
+`PYTHON` `XGBOOST` `LSTM` `DOCKER`
 
-[Read the repository](https://github.com/plpogba/web-serv)
+[View StockPriceAI on GitHub](https://github.com/OSP-team4-StockPriceAI/StockPriceAI)
 
 ---
 
